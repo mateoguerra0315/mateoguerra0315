@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @18RedApple
+- 👋 Hi, I’m Mateo, Senior Game Developer and Software Engineer.
 
 <!---
 18KGlintInnovator/18KGlintInnovator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
